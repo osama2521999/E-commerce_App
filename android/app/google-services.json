@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8341300831",
+    "project_id": "cinema-e-commerceapp",
+    "storage_bucket": "cinema-e-commerceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8341300831:android:464561f6a6291ffdad5dea",
+        "android_client_info": {
+          "package_name": "com.example.e_commrece_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8341300831-3ih05mamr2k67k3daroau4ieck7pkl89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNiUYTKGRFQQqKLrssD0fZcYxYiXn7mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8341300831-3ih05mamr2k67k3daroau4ieck7pkl89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
